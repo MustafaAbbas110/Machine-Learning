@@ -8,4 +8,7 @@
 4. Splitting Test and Training Data
 5. Feature Scaling
 
+## Gradient Descent From Scratch
+
+
 
